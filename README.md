@@ -1,4 +1,4 @@
-<img align="center" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47btxgs5whs054l1p56qy78dk4ha5rimfehaypggxm&rid=giphy.gif&ct=g" style=>
+<img align="center" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47btxgs5whs054l1p56qy78dk4ha5rimfehaypggxm&rid=giphy.gif&ct=g">
 
 <h1 align="center">Hi 👋, I'm Marco Mercado</h1>
 <h3 align="center">I'm passionate about learning and using the things I learned to build cool projects.</h3>
