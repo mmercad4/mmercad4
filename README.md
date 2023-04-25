@@ -15,8 +15,4 @@
 
 - ⚡ Fun fact **I train dogs with my wife!**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmercad4&show_icons=true&locale=en&layout=compact" alt="mmercad4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmercad4&show_icons=true&locale=en" alt="mmercad4" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmercad4&" alt="mmercad4" /></p>
