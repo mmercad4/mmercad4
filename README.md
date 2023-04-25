@@ -9,17 +9,11 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **C++ Project**
-
-- 🤝 I’m looking for help with **Rust**
-
-- 👨‍💻 All of my projects are available at [MarcoMercado.dev](MarcoMercado.dev)
-
-- 💬 Ask me about **JavaScript, SASS, ExpressJS, NodeJS**
+- 👯 I’m looking to collaborate on a **React Project**
 
 - 📫 How to reach me **marco@stonepawtraining.com**
 
-- ⚡ Fun fact **I train dogs with my fiancé!**
+- ⚡ Fun fact **I train dogs with my wife!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
