@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Mercado</h1>
-<h3 align="center">I'm passionate about learning and using the things I learned to build cool projects.</h3>
+<h3 align="center">I'm passionate about learning and using the things I learn to build things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmercad4&label=Profile%20views&color=0e75b6&style=flat" alt="mmercad4" /> </p>
 
