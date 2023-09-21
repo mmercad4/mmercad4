@@ -14,5 +14,3 @@
 - 📫 How to reach me **marco@stonepawtraining.com**
 
 - ⚡ Fun fact **I train dogs with my wife!**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmercad4&" alt="mmercad4" /></p>
